@@ -14,6 +14,8 @@ Bu projeyi klonlayın:
 
   ```bash
   pip install -r requirements.txt
+
+
   Proje dosyalarını çalıştırın:
 
 ```bash
