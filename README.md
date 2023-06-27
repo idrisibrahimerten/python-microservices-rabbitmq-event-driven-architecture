@@ -8,8 +8,8 @@ Bu proje, mikro hizmetler mimarisi ve olay odaklı tasarımın bir örneğini su
 Proje Kurulumu
 Bu projeyi klonlayın:
 
-```bash
-git clone https://github.com/kullanici_adi/proje-adi.git
+  ```bash
+  git clone https://github.com/kullanici_adi/proje-adi.git
 
 
 ```bash
