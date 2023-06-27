@@ -12,9 +12,9 @@ Bu projeyi klonlayın:
   git clone https://github.com/kullanici_adi/proje-adi.git
 
 
-```bash
-pip install -r requirements.txt
-Proje dosyalarını çalıştırın:
+  ```bash
+  pip install -r requirements.txt
+  Proje dosyalarını çalıştırın:
 
 ```bash
 python main.py
