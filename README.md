@@ -1,4 +1,3 @@
-# python-microservices-rabbitmq-event-driven-architecture
 Python Microservices - Olay Odaklı Mimari ve RabbitMQ ile
 Bu proje, Python kullanarak geliştirilmiş bir mikro hizmetler örneğidir. Olay odaklı mimari kullanılarak RabbitMQ mesaj kuyruğu ile iletişim sağlanmaktadır.
 
@@ -8,21 +7,30 @@ Bu proje, mikro hizmetler mimarisi ve olay odaklı tasarımın bir örneğini su
 Proje Kurulumu
 Bu projeyi klonlayın:
 
-  ```bash
-  git clone https://github.com/kullanici_adi/proje-adi.git
+bash
+Copy code
+git clone https://github.com/kullanici_adi/proje-adi.git
+Python sanal ortamını etkinleştirin:
 
+bash
+Copy code
+cd proje-adi
+python -m venv venv
+source venv/bin/activate
+Gerekli Python bağımlılıklarını yükleyin:
 
-  ```bash
-  pip install -r requirements.txt
+bash
+Copy code
+pip install -r requirements.txt
+Proje dosyalarını çalıştırın:
 
-
-  Proje dosyalarını çalıştırın:
-
-```bash
+bash
+Copy code
 python main.py
 Uygulamayı test etmek için ayrı bir terminal penceresi açın ve aşağıdaki komutu çalıştırın:
 
-```bash
+bash
+Copy code
 python publisher.py
 Katkılar
 Katkıda bulunmak isterseniz, lütfen yeni bir dal oluşturun ve değişiklikleriniz için bir pull talebi gönderin.
@@ -38,18 +46,30 @@ This project demonstrates an example of microservices architecture and event-dri
 Project Setup
 Clone this project:
 
-```bash
+bash
+Copy code
 git clone https://github.com/username/project-name.git
+Activate the Python virtual environment:
 
-```bash
+bash
+Copy code
+cd project-name
+python -m venv venv
+source venv/bin/activate
+Install the required Python dependencies:
+
+bash
+Copy code
 pip install -r requirements.txt
 Run the project files:
 
-```bash
+bash
+Copy code
 python main.py
 To test the application, open a separate terminal window and run the following command:
 
-```bash
+bash
+Copy code
 python publisher.py
 Contributions
 If you'd like to contribute, please create a new branch and submit a pull request with your changes.
