@@ -7,25 +7,27 @@ Bu proje, mikro hizmetler mimarisi ve olay odaklı tasarımın bir örneğini su
 Proje Kurulumu
 Bu projeyi klonlayın:
 
-bash
-Copy code
+```bash
 git clone https://github.com/kullanici_adi/proje-adi.git
+
+
 Python sanal ortamını etkinleştirin:
 
-bash
-Copy code
+```bash
 cd proje-adi
 python -m venv venv
 source venv/bin/activate
+
+
 Gerekli Python bağımlılıklarını yükleyin:
 
-bash
-Copy code
+```bash
 pip install -r requirements.txt
+
+
 Proje dosyalarını çalıştırın:
 
-bash
-Copy code
+```bash
 python main.py
 Uygulamayı test etmek için ayrı bir terminal penceresi açın ve aşağıdaki komutu çalıştırın:
 
