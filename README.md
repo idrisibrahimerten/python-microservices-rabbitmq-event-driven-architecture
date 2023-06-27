@@ -9,9 +9,20 @@ Bu proje, mikro hizmetler mimarisi ve olay odaklı tasarımın bir örneğini su
 ## Proje Kurulumu
 
 1. Bu projeyi klonlayın:
+   
+   ```bash
+   git clone https://github.com/kullanici_adi/proje-adi.git
 
 
-2. Python sanal ortamını etkinleştirin:
+3. Python sanal ortamını etkinleştirin:
 
 
-3. Gerekli Python bağımlılıklarını yükleyin:
+4. Gerekli Python bağımlılıklarını yükleyin:
+
+
+5. Proje dosyalarını çalıştırın:
+
+
+
+6. Uygulamayı test etmek için ayrı bir terminal penceresi açın ve aşağıdaki komutu çalıştırın:
+
