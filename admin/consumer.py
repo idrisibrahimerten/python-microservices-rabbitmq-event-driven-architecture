@@ -1,6 +1,6 @@
 import pika 
 
-params = pika.URLParameters('amqps://argrorjt:rcopNCLgiFnsHCr6oMnmceIPwTXlFcMn@beaver.rmq.cloudamqp.com/argrorjt')
+params = pika.URLParameters('link gir')
 
 connection = pika.BlockingConnection(params)
 
